@@ -1,0 +1,1 @@
+# rbucket-oauth-authenticator-interface
